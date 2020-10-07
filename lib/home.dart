@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget {
             print('Menu button');
           },
         ),
-        title: Text('VOUS'),
+        title: Text('VousAgency'),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.search),
